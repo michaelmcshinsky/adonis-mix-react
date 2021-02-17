@@ -1,6 +1,8 @@
 # Adonis-React + Tailwind
 A monorepo combining AdonisJS with ReactJS via the npm package [adonis-mix-react](https://github.com/wahyubucil/adonis-mix-asset#readme).
 
+Article detailing step is covered [here on Dev.to](https://dev.to/mmcshinsky/build-a-fullstack-app-with-adonis-and-react-1m50)
+
 ## Features
 1. AdonisJS
 2. ReactJS
