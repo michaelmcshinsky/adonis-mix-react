@@ -13,14 +13,14 @@ git clone https://github.com/michaelmcshinsky/adonis-mix-react.git
 cd adonis-mix-react
 cp .env.example .env
 node ace generate:key
-yarn install # or npm install
+yarn install
 ```
 
 ## Usage
 
 ### Development
 ```
-yarn dev # or npm run dev
+yarn dev
 ```
 Navigation to [http://localhost:3333](http://localhost:3333)
 
@@ -32,8 +32,8 @@ yarn start
 
 ### Documentation
 
-[AdonisJS](https://preview.adonisjs.com/guides/quick-start)
-[ReactJS](https://reactjs.org/docs/getting-started.html)
+* [AdonisJS](https://preview.adonisjs.com/guides/quick-start)
+* [ReactJS](https://reactjs.org/docs/getting-started.html)
 
 ## TODO
 
