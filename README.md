@@ -1,3 +1,9 @@
+> **⚠️ Archived**
+>
+> This repository is frozen as the companion code for the Medium article below and uses end-of-life software (AdonisJS 5 preview, Laravel Mix, Tailwind postcss7-compat).
+>
+> The actively maintained successor is **[adonis-react-vite](https://github.com/michaelmcshinsky/adonis-react-vite)** — AdonisJS 6 + Vite + React 19 + TypeScript + Tailwind 4.
+
 # Adonis-React + Tailwind
 A monorepo combining AdonisJS with ReactJS via the npm package [adonis-mix-react](https://github.com/wahyubucil/adonis-mix-asset#readme).
 
